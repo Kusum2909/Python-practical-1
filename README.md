@@ -30,4 +30,8 @@ Output:
 Practical 11 
 Output:
 ![practical 11 output](IMG_20261110_181131.jpg) 
+Practical 12
+Output:
+![practical 12 output](IMG_20261110_193449.jpg) 
+
 
