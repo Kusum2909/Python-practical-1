@@ -6,4 +6,7 @@ Output:
 ![Practical 2 output a](IMG_20261025_173347.jpg) 
 ![Practical 2 output b](IMG_20261025_173840.jpg) 
 ![Practical 3 output c](IMG_20261025_174253.jpg) 
+Practical 3
+Output:
+![practical 3 output](IMG_20261025_190622.jpg) 
 
