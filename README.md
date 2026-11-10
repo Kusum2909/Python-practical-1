@@ -20,5 +20,7 @@ Output:
 ![practical 6 output](IMG_20261025_200546.jpg) 
 Practical 7 
 Output:
-![practical 7 output](IMG_20261025_200915.jpg) 
-
+![practical 7 output](IMG_20261025_200915.jpg)
+Practical 8
+Output:
+![practical 8 output](IMG_20261025_201247.jpg) 
