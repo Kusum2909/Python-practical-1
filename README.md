@@ -9,4 +9,7 @@ Output:
 Practical 3
 Output:
 ![practical 3 output](IMG_20261025_190622.jpg) 
+Practical 4
+Output:
+![practical 4 output](IMG_20261025_190738.jpg) 
 
