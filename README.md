@@ -24,6 +24,9 @@ Output:
 Practical 8
 Output:
 ![practical 8 output](IMG_20261025_201247.jpg) 
+Practical 9 
+Output:
+![practical 9 output](IMG_20261110_201839.jpg) 
 Practical 10
 Output:
 ![practical 10 output](IMG_20261025_201654.jpg) 
