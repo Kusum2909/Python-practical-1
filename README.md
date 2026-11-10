@@ -36,5 +36,8 @@ Output:
 Practical 13
 Output:
 ![practical 13 output](IMG_20261110_193544.jpg) 
+Practical 14
+Output:
+![practical 14 output](IMG_20261110_193625.jpg) 
 
 
